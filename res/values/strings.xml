@@ -2,4 +2,6 @@
 <resources>
     <string name="hello">PirogueHome</string>
     <string name="app_name">Pirogue</string>
+<string name="menu_exit">Exit</string>
+
 </resources>
