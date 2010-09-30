@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">PirogueHome</string>
+    <string name="hello">Welcome to Pirogue, the Cajun Car Home</string>
     <string name="app_name">Pirogue</string>
 <string name="menu_exit">Exit</string>
 
