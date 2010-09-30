@@ -29,6 +29,8 @@ public class PirogueHome extends Activity {
     public boolean onMenuItemSelected(int featureId, MenuItem item) {
         switch(item.getItemId()) {
         case Exit_ID:
+        	UiModeManager uiManager = (UiModeManager) getSystemService(UI_MODE_SERVICE);
+        	uiManager.disableCarMode(0);
             finish();
             return true;
         }
